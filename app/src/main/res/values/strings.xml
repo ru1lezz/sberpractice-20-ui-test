@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EspressoPractice</string>
+    <string name="first_name">имя</string>
+    <string name="last_name">фамилия</string>
+    <string name="middle_name">отчество</string>
+    <string name="first_name_label">Имя:</string>
+    <string name="last_name_label">Фамилия:</string>
+    <string name="middle_name_label">Отчество:</string>
+</resources>
